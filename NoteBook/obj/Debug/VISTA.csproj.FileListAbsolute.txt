@@ -1,0 +1,9 @@
+C:\Users\dgcha\Documents\GitHub\Notebook\NoteBook\bin\Debug\NoteBook.exe.config
+C:\Users\dgcha\Documents\GitHub\Notebook\NoteBook\bin\Debug\NoteBook.exe
+C:\Users\dgcha\Documents\GitHub\Notebook\NoteBook\bin\Debug\NoteBook.pdb
+C:\Users\dgcha\Documents\GitHub\Notebook\NoteBook\obj\Debug\VISTA.csprojAssemblyReference.cache
+C:\Users\dgcha\Documents\GitHub\Notebook\NoteBook\obj\Debug\NoteBook.NOTEBOOK.resources
+C:\Users\dgcha\Documents\GitHub\Notebook\NoteBook\obj\Debug\NoteBook.Properties.Resources.resources
+C:\Users\dgcha\Documents\GitHub\Notebook\NoteBook\obj\Debug\VISTA.csproj.GenerateResource.cache
+C:\Users\dgcha\Documents\GitHub\Notebook\NoteBook\obj\Debug\NoteBook.exe
+C:\Users\dgcha\Documents\GitHub\Notebook\NoteBook\obj\Debug\NoteBook.pdb
